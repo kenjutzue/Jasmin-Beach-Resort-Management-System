@@ -62,4 +62,4 @@ This Jasmin Beach Resort Management System was used for test purposes in Jasmin 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/kenjutzue/Jasmin-Beach-Resort-Management-System/blob/master/LICENSE.md) file for details.
