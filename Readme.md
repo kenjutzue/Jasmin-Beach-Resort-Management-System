@@ -58,7 +58,7 @@ Overall, an Online Resort Management System can significantly enhance the effici
 
 ## Purpose that I created this System
 
-This Jasmin Beach Resort Management System was used for test purposes in Brgy. Amambucale, Marabut, Samae. It was developed to demonstrate how a resort can efficiently manage reservations, guest information, and daily operations using a web.
+This Jasmin Beach Resort Management System was used for test purposes in Brgy. Amambucale, Marabut, Samar. It was developed to demonstrate how a resort can efficiently manage reservations, guest information, and daily operations using a web.
 
 ## License
 
