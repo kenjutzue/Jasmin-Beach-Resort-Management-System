@@ -17,7 +17,7 @@ I developed this project system using the following:
 - Language Used: PHP
 - Database Used: MySQL
 - Design Interface: Bootstrap, JavaScript, HTML, Ajax, JQuery
-- Browser: Brave Browser (you can use any browser like Chrome)
+- Browser: Brave Browser (you can use any browser like Chrome,Opera,Microsoft Edge,etc)
 - Software: WAMPP/XAMPP/LAMP/MAMP
 
 The Jasmin Beach Resort Management System has an Admin Panel that allows resort management to manage the data shown on the website and the reservation list. The panel can be accessed by two types of users: the Administrator and the Staff. The Administrator has the privilege to access and manage all the features and functionalities of the project, while the Staff users have limited access. The project also generates a printable date-wise reservation report.
